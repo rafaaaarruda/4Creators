@@ -99,7 +99,7 @@ O objetivo da integração é reduzir tarefas manuais de organização e ajudar 
 
 A demonstração em vídeo apresenta o assistente de IA em funcionamento, utilizando uma entrada em linguagem natural para auxiliar na criação e organização de conteúdo dentro do aplicativo.
 
-<!-- O vídeo da IA será inserido aqui. -->
+https://github.com/user-attachments/assets/30ff8388-f4b4-41f7-9c89-f174353a85d9
 
 ---
 
