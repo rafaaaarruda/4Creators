@@ -1,3 +1,5 @@
+🇧🇷 Português | [🇺🇸 English](README.en.md)
+
 # 4Creators
 
 Aplicativo iOS para **planejamento, organização e gerenciamento da rotina de criadores de conteúdo**, centralizando publicações, pastas, briefings, roteiros e cronogramas em um único fluxo.
